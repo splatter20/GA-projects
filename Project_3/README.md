@@ -43,17 +43,17 @@ The scores of the classificatiom methods are as shown below:
 The final model chosen was LogisticRegression with CountVectorizer with the following hyperparameters:
 
 1) CountVectorizer
-   a) max_df=0.95 
-   b) max_features=6000
-   c) min_df=2
-   d) ngram_range=(1, 2)
-   e) stop_words
+    - max_df=0.95 
+    - max_features=6000
+    - min_df=2
+    - ngram_range=(1, 2)
+    - stop_words
    
 2) LogisticRegression
-   a) C=0.1, 
-   b) max_iter=1000, 
-   c) Penalty=l1
-   d) solver='liblinear’
+    - C=0.1, 
+    - max_iter=1000, 
+    - Penalty=l1
+    - solver='liblinear’
 
 
 The top 20 features which were identified by the models are:
