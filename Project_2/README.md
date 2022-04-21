@@ -58,7 +58,11 @@ Some of the most prominent features were:
 - overall quality
 
 The coefficient values of the below image is based on the non-polynomial Lasso regression model.
+<<<<<<< Updated upstream
 <img src="./images/highest_coef.png" style="height: 500px">
+=======
+![Alt text](../images/highest_coef.png?raw=true "Title")
+>>>>>>> Stashed changes
 
 Using the model, it is possible to predict property sale prices for future models. The features with the highest coefficients are mostly intuitive such as size of the property, quality of the property and the neighborhood it is situated in. 
 
