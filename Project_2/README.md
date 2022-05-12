@@ -60,7 +60,11 @@ Some of the most prominent features were:
 The coefficient values of the below image is based on the non-polynomial Lasso regression model.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img src="./images/highest_coef.png" style="height: 500px">
+=======
+![Alt text](../images/highest_coef.png?raw=true "Title")
+>>>>>>> Stashed changes
 =======
 ![Alt text](../images/highest_coef.png?raw=true "Title")
 >>>>>>> Stashed changes
