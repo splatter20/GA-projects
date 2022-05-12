@@ -2,7 +2,8 @@
 
 ## Background  
 
-Certificate of Entitlement (COE) represents a right own a vehicle and use it on Singapore roads for 10 years. COEs are separated into 5 different vehicle categories (A - E). [Source](https://onemotoring.lta.gov.sg/content/onemotoring/home/buying/upfront-vehicle-costs/certificate-of-entitlement--coe-.html#:~:text=A%20Certificate%20of%20Entitlement%20(COE,use%20a%20vehicle%20in%20Singapore.)
+Certificate of Entitlement (COE) represents a right own a vehicle and use it on Singapore roads for 10 years.  
+COEs are separated into 5 different vehicle categories (A - E). [Source](https://onemotoring.lta.gov.sg/content/onemotoring/home/buying/upfront-vehicle-costs/certificate-of-entitlement--coe-.html)
 
 - **Cat A**: Car, except fully electric car, with engine capacity up to 1,600cc and Maximum Power Output up to 97kW (130bhp); and fully electric car with Maximum Power Output up to 110kW (147bhp)
 - **Cat B**: Car, except fully electric car, with engine capacity above 1,600cc or Maximum Power Output above 97kW (130bhp); and fully electric car with Maximum Power Output above 110kW (147bhp)
