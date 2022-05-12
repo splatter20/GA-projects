@@ -1,0 +1,7 @@
+Model,Univariate / Multivariate,MSE,Success %
+ARIMA,Univariate,170766416.86,43.3
+Linear Regression,Univariate,86105841.98,83.5
+Linear Regression ,Multivariate,627776111.0,100.0
+Linear Regression w Lasso ,Multivariate,629132479.33,100.0
+Linear Regression w Ridge,Multivariate,629122991.38,100.0
+SARIMA,Univariate,151149668.92,50.5
